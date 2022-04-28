@@ -55,7 +55,7 @@ namespace EDnevnik
                         }
                         else
                         {
-                            MessageBox.Show("Nije dobar password :)");
+                            MessageBox.Show("Nije dobar (los,neispravan, pogresan, kako god hocete al NE VAAALJAAA) password (lozinka, ono da prodjete) :)");
                         }
                     }
                     else
